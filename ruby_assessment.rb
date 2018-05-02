@@ -185,6 +185,7 @@
 #   num = rand(1..10)
 # end	
 
+##Write out the contents of our number array
 # puts num_array
 # puts "There are #{num_array.length} numbers under 6"
 # # ----------------------------------------------------------------------
