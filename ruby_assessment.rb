@@ -174,7 +174,7 @@
  
 
 # # # 12.  Continuing from question 11 above, push each randomly generated number to an array.  Then use an each loop and a conditional statement inside to display the total amount of numbers that are under 6.  Then display a statement that reads: "There are (total) numbers under 6."
-
+#Create a random number to start
 # num_array =[]
 # num = rand(1..10)
 
