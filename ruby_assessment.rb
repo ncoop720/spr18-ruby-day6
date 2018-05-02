@@ -196,7 +196,7 @@
 # # # 13.  Write code to create a new instance of a Vehicle object and make it honk.
 
  
-
+#This is our vehicle class:
 # # #       Class Vehicle
 
 # # #            def initialize(color, type)
